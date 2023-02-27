@@ -1,4 +1,4 @@
-<h1>Hello there <img src="./assets/wave.gif" height="30px"></h1>
+<h1>Hello there <img src="./assets/wave.gif" width="30px" height="30px"></h1>
 
 <p>
     <a href="https://github.com/borjanebbal#gh-light-mode-only">
