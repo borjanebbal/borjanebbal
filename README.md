@@ -20,10 +20,6 @@
 - 📚 Passionate about Clean Architecture, DDD, TDD and design patterns.
 - 🎸 Guitarist.
 
-## 📝 Blog posts
-
-- [How to implement a video conference with WebRTC and Node](https://www.acidtango.com/thelemoncrunch/how-to-implement-a-video-conference-with-webrtc-and-node/)
-
 ## 🛠 Languages and tools
 
 <div>
