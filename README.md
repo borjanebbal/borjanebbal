@@ -44,16 +44,16 @@
 
 <p float="left">
     <a href="https://github.com/borjanebbal#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=borjanebbal&count_private=true&show_icons=true" height="160px" />
+        <img src="https://github-readme-stats-mocha-nu-53.vercel.app/api?username=borjanebbal&count_private=true&show_icons=true" height="160px" />
     </a>
     <a href="https://github.com/borjanebbal#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=borjanebbal&count_private=true&show_icons=true&theme=discord_old_blurple" height="160px" />
+        <img src="https://github-readme-stats-mocha-nu-53.vercel.app/api?username=borjanebbal&count_private=true&show_icons=true&theme=discord_old_blurple" height="160px" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/borjanebbal#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjanebbal&layout=compact" height="130px" />
+        <img src="https://github-readme-stats-mocha-nu-53.vercel.app/api/top-langs/?username=borjanebbal&hide_progress=true" height="130px" />
     </a>
     <a href="https://github.com/borjanebbal#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borjanebbal&layout=compact&theme=discord_old_blurple" height="128px" />
+        <img src="https://github-readme-stats-mocha-nu-53.vercel.app/api/top-langs/?username=borjanebbal&hide_progress=true&theme=discord_old_blurple" height="128px" />
     </a>
 </p>
