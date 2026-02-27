@@ -18,7 +18,8 @@
 
 - 👨‍💻 Full-stack developer, versed in TypeScript and NodeJS.
 - 📚 Passionate about Clean Architecture, DDD, TDD and design patterns.
-- 🎸 Guitarist.
+- 🤖 Turning AI agents into powerful coding allies.
+- 🎸 Guitarist and audiophile.
 
 ## 🛠 Languages and tools
 
